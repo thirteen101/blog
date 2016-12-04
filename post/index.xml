@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shekhar Gulati Book Reviews </title>
-    <link>http://example.org/post/index.xml</link>
+    <link>https://thirteen101.github.io/blog/post/index.xml</link>
     <language>en-us</language>
     <author>Shekhar Gulati</author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Good to Great Book Review</title>
-          <link>http://example.org/post/good-to-great/</link>
+          <link>https://thirteen101.github.io/blog/post/good-to-great/</link>
           <pubDate>Sun, 04 Dec 2016 17:38:09 CST</pubDate>
           <author>Shekhar Gulati</author>
-          <guid>http://example.org/post/good-to-great/</guid>
+          <guid>https://thirteen101.github.io/blog/post/good-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 </description>
         </item>
